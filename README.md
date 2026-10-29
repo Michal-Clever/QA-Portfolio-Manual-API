@@ -5,17 +5,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Projekt
-Niniejsze repozytorium zawiera kompletny projekt testowy przygotowany dla aplikacji **SauceDemo ** dostępnej pod adresem: `(https://sauce-demo.myshopify.com/)`.
+## 📌 O projekcie
+Niniejsze repozytorium zawiera kompletny projekt testowy przygotowany dla aplikacji **[Nazwa Aplikacji, np. SauceDemo / E-Commerce App]** dostępnej pod adresem: `https://example.com`.
 
 Celem projektu jest zaprezentowanie pełnego cyklu testowania oprogramowania (STLC) – od analizy wymagań i przygotowania planu testów, przez egzekucję przypadków testowych w Jiry, aż po weryfikację interfejsów API w narzędziu Postman.
 
+---
 
-- Użyte narzędzia i technologie
+## 🛠️ Użyte narzędzia i technologie
 
 * **Zarządzanie testami & Zgłaszanie błędów:** Jira Cloud + wtyczka Xray
 * **Dokumentacja & System kontroli wersji:** GitHub (Markdown, Git)
 * **Testowanie API:** Postman (Kolekcje, Zmienne, Asercje w JavaScript)
 * **Analiza i Diagnostyka:** Chrome DevTools (Console, Network, Application)
 * **Standardy:** ISTQB (metodologia, terminologia, dobra praktyka)
+
+---
 
