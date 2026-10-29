@@ -22,3 +22,17 @@ Celem projektu jest zaprezentowanie pełnego cyklu testowania oprogramowania (ST
 
 ---
 
+## 📂 Struktura repozytorium
+```text
+├── README.md                   <-- Główne podsumowanie projektu
+├── docs/                       <-- Dokumentacja testowa w Markdown
+│   ├── 01_Test_Plan.md         <-- Plan testów, zakres, środowiska, kryteria
+│   ├── 02_Test_Cases.md        <-- Przypadki testowe (ścieżki pozytywne i negatywne)
+│   ├── 03_Bug_Reports.md       <-- Zgłoszone błędy z krokami do odtworzenia
+│   └── 04_RTM.md               <-- Matryca pokrycia wymagań (Requirement Traceability)
+├── images/                     <-- Zrzuty ekranu z systemu Jira / Xray
+│   ├── jira_test_case.png
+│   ├── jira_execution_failed.png
+│   └── jira_bug_report.png
+└── api/                        <-- Testy API
+    └── postman_collection.json <-- Wyeksportowana kolekcja Postman z asercjami
