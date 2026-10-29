@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📌 O projekcie
-Niniejsze repozytorium zawiera kompletny projekt testowy przygotowany dla aplikacji **[Nazwa Aplikacji, np. SauceDemo / E-Commerce App]** dostępnej pod adresem: `https://example.com`.
+Niniejsze repozytorium zawiera kompletny projekt testowy przygotowany dla aplikacji **[SauceDemo]** dostępnej pod adresem: `(https://sauce-demo.myshopify.com/)`.
 
 Celem projektu jest zaprezentowanie pełnego cyklu testowania oprogramowania (STLC) – od analizy wymagań i przygotowania planu testów, przez egzekucję przypadków testowych w Jiry, aż po weryfikację interfejsów API w narzędziu Postman.
 
